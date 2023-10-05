@@ -4,20 +4,24 @@ export default function Landpage() {
   return (
     <div className='pagina-landpage'>
       <div className='cabecalho'>
-        <h1>Pizzaria</h1>
-        <img src="" alt="" />
-        <h1>Papa's Louis</h1>
+        <img src="/assets/images/logo.png" alt="logo" />
       </div>
 
       <div className='secao'>
         <div className='card'>
           <div className='foto'>
-            <div>
+            <div className='cardFotos'>
               <img src="" alt="" />
-              <div>
-                <img src="" alt="" />
-                <img src="" alt="" />
-                <img src="" alt="" />
+              <div className='fotoSecundaria'>
+                <div>
+                  <img src="" alt="" />
+                </div>
+                <div>
+                  <img src="" alt="" />
+                </div>
+                <div>
+                  <img src="" alt="" />
+                </div>
               </div>
             </div>
             <div className='addFoto'>
