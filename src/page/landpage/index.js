@@ -11,7 +11,9 @@ export default function Landpage() {
         <div className='card'>
           <div className='foto'>
             <div className='cardFotos'>
-              <img src="" alt="" />
+              <div className='fotoPrincipal'>
+                <img src="/assets/images/add.svg" alt="Principal" />
+              </div>
               <div className='fotoSecundaria'>
                 <div>
                   <img src="" alt="" />
