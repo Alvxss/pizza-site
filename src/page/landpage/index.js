@@ -16,13 +16,13 @@ export default function Landpage() {
               </div>
               <div className='fotoSecundaria'>
                 <div>
-                  <img src="" alt="" />
+                  <img src="/assets/images/add.svg" alt="Secundaria" />
                 </div>
                 <div>
-                  <img src="" alt="" />
+                  <img src="/assets/images/add.svg" alt="Secundaria" />
                 </div>
                 <div>
-                  <img src="" alt="" />
+                  <img src="/assets/images/add.svg" alt="Secundaria" />
                 </div>
               </div>
             </div>
