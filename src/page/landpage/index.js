@@ -72,7 +72,7 @@ export default function Landpage() {
             </div>
             <div className='ingredientes'>
               <h3>ingredientes</h3>
-              <input type="text" value={ingredientes} onChange={e => setIngredientes(e.target.value)}/>
+              <textarea type="text" value={ingredientes} onChange={e => setIngredientes(e.target.value)}/>
             </div>
             <div className='addProduto'>
               <button onClick={adicionar}>ADICIONAR PRODUTO</button>
